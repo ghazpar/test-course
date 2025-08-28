@@ -15,10 +15,10 @@ jupyter:
     name: python3
 ---
 
-<!-- #region -->
+<!-- #region id="8865e134" -->
 # Plan de cours
 <!-- #endregion -->
 
-```python
+```python id="2f4cf6a1"
 pi = 3.1416
 ```
