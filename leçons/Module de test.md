@@ -1,5 +1,4 @@
 ---
-
 jupyter:
   celltoolbar: Tags
   jupytext:
@@ -16,10 +15,10 @@ jupyter:
     name: python3
 ---
 
-<!-- #region id="fe9adba3" -->
+<!-- #region -->
 # Plan de cours
 <!-- #endregion -->
 
-```python id="a94de193"
+```python
 pi = 3.1416
 ```
