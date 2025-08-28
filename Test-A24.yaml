@@ -1,0 +1,49 @@
+PAX: https://fsg-pax-a-app01.fsg.ulaval.ca
+Titre de la formation: Formation de test
+Titre de la session: Automne 2024
+Description: null
+Objectifs: null
+Date de début: 2024-09-02
+Date de fin: 2024-12-20
+Publié: false
+Pondération des évaluations:
+  Exercices: 20
+  Partiel: 25
+  Final: 35
+  Projets: 15
+  Forum: 5
+Seuil de succès: 95
+Inscription: null
+Capsule bienvenue: null
+Capsule site: null
+Capsule forum: null
+Courriel du secrétariat: null
+Type de formation: créditée
+Formation multisigle: false
+Unités d'enseignement: 1.5
+Pourcentage min de temps: 50.0
+Pourcentage min de quiz: 80.0
+Salle virtuelle: null
+Liens utiles: []
+Modules:
+- Module: Module de test, pk=2078
+  Objectifs: null
+  Date d'échéance: null
+  Publié: false
+  Pondération: 1
+  Temps d'étude: 0:5:0
+  Accès restreint: false
+  Capsule vidéo: null
+  Taille des équipes: null
+  Date limite création des équipes: null
+  Exercices: []
+  Exercices désactivés: []
+Module désactivés: []
+Quiz: []
+Quiz désactivés: []
+Sections: []
+Sections désactivées: []
+Projets: []
+Projets désactivés: []
+Thèmes: []
+Thèmes désactivés: []
