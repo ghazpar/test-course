@@ -1,0 +1,70 @@
+PAX: http://localhost:8000
+Titre de la formation: Formation de test
+Titre de la session: Hiver 2025
+Description: null
+Objectifs: null
+Date de début: 2025-01-13
+Date de fin: 2025-05-04
+Publié: false
+Pondération des évaluations:
+  Exercices: 20
+  Partiel: 25
+  Final: 35
+  Projets: 15
+  Forum: 5
+Seuil de succès: 95
+Inscription: null
+Capsule bienvenue: null
+Capsule site: null
+Capsule forum: null
+Courriel du secrétariat: null
+Type de formation: créditée
+Formation multisigle: false
+Unités d'enseignement: 1.5
+Pourcentage min de temps: 50.0
+Pourcentage min de quiz: 80.0
+Salle virtuelle: null
+Liens utiles: []
+Parties:
+- Partie: Première semaine, pk=526
+  Date de début: 2025-01-13 00:00:00
+  Durée: 7 jours
+  Échéance des modules: null
+  Pondération: 1.0
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Premier module, pk=2003
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: false
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Premier exercice, pk=5328
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:10
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz:
+  - Quiz: Premier quiz, pk=5327
+    Durée: 0:20:0
+    Rétroactions: 5
+    Publié: true
+    Prérequis: null
+    Accès restreint: false
+    Délai de correction: 0:0:10
+  Quiz désactivés: []
+Parties désactivées: []
+Sections: []
+Sections désactivées: []
+Projets: []
+Projets désactivés: []
+Thèmes: []
+Thèmes désactivés: []
